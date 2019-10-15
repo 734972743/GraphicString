@@ -1,0 +1,6 @@
+var huaji = function(){
+
+}
+
+
+

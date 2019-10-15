@@ -1,0 +1,24 @@
+
+#这是不想上传的文件夹
+.DS_Store
+node_modules
+/dist
+
+# local env files
+
+
+# Log files
+
+
+#这是不想上次的配置文件
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+.settings
